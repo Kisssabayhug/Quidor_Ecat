@@ -14,9 +14,7 @@ class MyHomePage extends StatelessWidget {
         body: Column(
           children: [
             Row(
-              children: [
-                //ImageIcon(),
-              ],
+              children: [],
             ),
           ],
         ),
